@@ -4,3 +4,4 @@
 rebase conflict
 
 Hello from gitlab
+edited
